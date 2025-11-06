@@ -81,26 +81,26 @@ plt.tight_layout()
 plt.show()
 ```
 # Output:
-Original Image:
+# Original Image:
+
 <img width="301" height="230" alt="image" src="https://github.com/user-attachments/assets/a75573ac-9c36-4339-ba2f-9c6e2e92cdc9" />
 
 
-Canny Edge Detection:
+# Canny Edge Detection:
  
 <img width="301" height="230" alt="image" src="https://github.com/user-attachments/assets/9744f75e-4334-4dcb-ba66-2b66db1ee9ca" />
 
-
-Canny (Low Thresholds: 30-80):
+# Canny (Low Thresholds: 30-80):
 
 <img width="301" height="230" alt="image" src="https://github.com/user-attachments/assets/83b69e19-22d4-4aab-bcef-9b2b8be5aa9e" />
 
 
-Canny (Balanced Thresholds: 50-100):
+# Canny (Balanced Thresholds: 50-100):
 <img width="332" height="230" alt="image" src="https://github.com/user-attachments/assets/02fdb8c6-6a96-48ad-841e-366a293cb866" />
 
 
-Canny (High Thresholds: 100-200):
+# Canny (High Thresholds: 100-200):
 <img width="397" height="292" alt="image" src="https://github.com/user-attachments/assets/3c9a2734-7420-47ba-97ab-3b6df46b0145" />
 
-Result:
+# Result:
 Thus , the edges are detected by Canny edge detection and also implemented with different parameter settings.
