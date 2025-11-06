@@ -91,13 +91,16 @@ Canny Edge Detection:
 
 
 Canny (Low Thresholds: 30-80):
-https://private-user-images.githubusercontent.com/209225820/437760861-9bae14a2-8078-4320-9bdb-981a7f6904ff.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0NDE0MTYsIm5iZiI6MTc2MjQ0MTExNiwicGF0aCI6Ii8yMDkyMjU4MjAvNDM3NzYwODYxLTliYWUxNGEyLTgwNzgtNDMyMC05YmRiLTk4MWE3ZjY5MDRmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQxNDU4MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZmUwNDM1MThjMjFlNmQxZTk1NTdjYjI2ZDgyM2VlZTg1ZGRlMTM5YWZiZWNkZTNmNTBmZTVhNTdhMjEwMzk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.u5fTC2a2mcuZOeyBNYEh4j69ST95kJfWXXf3hs9K_P0
+
+<img width="301" height="230" alt="image" src="https://github.com/user-attachments/assets/83b69e19-22d4-4aab-bcef-9b2b8be5aa9e" />
+
 
 Canny (Balanced Thresholds: 50-100):
+<img width="332" height="230" alt="image" src="https://github.com/user-attachments/assets/02fdb8c6-6a96-48ad-841e-366a293cb866" />
 
 
 Canny (High Thresholds: 100-200):
-
+<img width="397" height="292" alt="image" src="https://github.com/user-attachments/assets/3c9a2734-7420-47ba-97ab-3b6df46b0145" />
 
 Result:
 Thus , the edges are detected by Canny edge detection and also implemented with different parameter settings.
